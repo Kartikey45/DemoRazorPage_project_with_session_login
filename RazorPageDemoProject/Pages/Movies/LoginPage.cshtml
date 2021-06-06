@@ -1,0 +1,32 @@
+﻿@page
+@model RazorPageDemoProject.Pages.Movies.LoginPageModel
+@{
+    ViewData["Title"] = "LoginPage";
+}
+
+<h4>Login Page</h4>
+<hr />
+@*<h3>session1 : @Model.Session1</h3>
+<h3>session2 : @Model.Session2</h3>*@
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" asp-page="LoginPage">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="loginCred.Username" class="control-label"></label>
+                <input asp-for="loginCred.Username" class="form-control" />
+                <span asp-validation-for="loginCred.Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="loginCred.Password" class="control-label"></label>
+                <input asp-for="loginCred.Password" class="form-control" />
+                <span asp-validation-for="loginCred.Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Login" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<span class="text-danger">@Model.Message</span>

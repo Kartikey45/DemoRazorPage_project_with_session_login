@@ -1,0 +1,266 @@
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.exe
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.deps.json
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.runtimeconfig.json
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.runtimeconfig.dev.json
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.pdb
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.Views.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.Views.pdb
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.AssemblyInfoInputs.cache
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.AssemblyInfo.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.csproj.CoreCompileInputs.cache
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.MvcApplicationPartsAssemblyInfo.cache
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.RazorAssemblyInfo.cache
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.RazorAssemblyInfo.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\staticwebassets\RazorPageDemoProject.StaticWebAssets.Manifest.cache
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\staticwebassets\RazorPageDemoProject.StaticWebAssets.xml
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\RazorPageDemoProject.styles.css
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.TagHelpers.input.cache
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.TagHelpers.output.cache
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.RazorCoreGenerate.cache
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Create.cshtml.g.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Delete.cshtml.g.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.RazorTargetAssemblyInfo.cache
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.RazorTargetAssemblyInfo.cs
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.Views.pdb
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.csproj.CopyComplete
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.dll
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.pdb
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.genruntimeconfig.cache
+D:\BookStore MVC Razor Page Project\RazorPageDemoProject\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.csprojAssemblyReference.cache
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.exe
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.deps.json
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.runtimeconfig.json
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.runtimeconfig.dev.json
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.pdb
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.Views.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\RazorPageDemoProject.Views.pdb
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.csprojAssemblyReference.cache
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.AssemblyInfoInputs.cache
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.AssemblyInfo.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.csproj.CoreCompileInputs.cache
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.MvcApplicationPartsAssemblyInfo.cache
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.RazorAssemblyInfo.cache
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.RazorAssemblyInfo.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\staticwebassets\RazorPageDemoProject.StaticWebAssets.Manifest.cache
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\staticwebassets\RazorPageDemoProject.StaticWebAssets.xml
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\RazorPageDemoProject.styles.css
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.TagHelpers.input.cache
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.TagHelpers.output.cache
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.RazorCoreGenerate.cache
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Create.cshtml.g.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Delete.cshtml.g.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.RazorTargetAssemblyInfo.cache
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.RazorTargetAssemblyInfo.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.Views.pdb
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.csproj.CopyComplete
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.dll
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.pdb
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.genruntimeconfig.cache
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\LoginPage.cshtml.g.cs
