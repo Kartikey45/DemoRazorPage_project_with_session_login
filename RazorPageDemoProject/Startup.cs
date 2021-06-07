@@ -25,16 +25,17 @@ namespace RazorPageDemoProject
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-           
+
             services.AddRazorPages();
             services.AddSession();
             services.AddMemoryCache();
-           
-            services.AddMvc().AddRazorPagesOptions(options =>
-            {
-                options.Conventions.AddPageRoute("/Movies/LoginPage", "");
-            });
-            services.AddMvc();
+
+            services.AddRazorPages()
+             .AddRazorPagesOptions(options => 
+             {
+                 /*options.RootDirectory = "/Movies/LoginPage";*/
+                 options.Conventions.AddPageRoute("/Movies/LoginPage", "");
+             });
 
             /*services.AddDbContext<RazorPageDemoProjectContext>(options =>
                     options.UseMySql(Configuration.GetConnectionString("RazorPageDemoProjectContext")));*/
@@ -59,7 +60,6 @@ namespace RazorPageDemoProject
             }
 
             app.UseSession();
-          
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();

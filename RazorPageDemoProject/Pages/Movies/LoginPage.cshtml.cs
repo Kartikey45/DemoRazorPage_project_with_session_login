@@ -21,14 +21,14 @@ namespace RazorPageDemoProject.Pages.Movies
         [BindProperty]
         public LoginCred loginCred { get; set; }
         public string Message { get; set; }
-        public string Session1 { get; set; }
-        public string Session2 { get; set; }
+      /*  public string Session1 { get; set; }
+        public string Session2 { get; set; }*/
 
         public IActionResult OnGet()
         {
-            Session1 = HttpContext.Session.GetString("username");
+          /*  Session1 = HttpContext.Session.GetString("username");*/
             HttpContext.Session.Remove("username");
-            Session2 = HttpContext.Session.GetString("username");
+          /*  Session2 = HttpContext.Session.GetString("username");*/
             return Page();
         }
       /*  public IActionResult OnGetLogout()
