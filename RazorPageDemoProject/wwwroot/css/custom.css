@@ -1,3 +1,17 @@
 ﻿.danger-green-color {
     background-color: #008504;
 }
+
+.outer-external-div {
+    width: 100%;
+    padding: 1px 5px 1px 5px;
+}
+
+/*
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}*/

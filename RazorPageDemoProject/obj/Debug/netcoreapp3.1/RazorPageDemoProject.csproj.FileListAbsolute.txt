@@ -234,7 +234,7 @@ D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\ru\Microsoft.C
 D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\RazorPagePractice\RazorPageDemoProject\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.csprojAssemblyReference.cache
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.csproj.AssemblyReference.cache
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.AssemblyInfoInputs.cache
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.AssemblyInfo.cs
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.csproj.CoreCompileInputs.cache
@@ -248,10 +248,12 @@ D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoP
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.TagHelpers.output.cache
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.RazorCoreGenerate.cache
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Create.cshtml.g.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Dashboard.cshtml.g.cs
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Delete.cshtml.g.cs
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
+D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\LoginPage.cshtml.g.cs
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
@@ -263,4 +265,3 @@ D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoP
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.dll
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.pdb
 D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\RazorPageDemoProject.genruntimeconfig.cache
-D:\RazorPagePractice\RazorPageDemoProject\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\LoginPage.cshtml.g.cs

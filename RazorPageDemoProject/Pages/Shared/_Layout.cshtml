@@ -7,17 +7,18 @@
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" />
     <link href="~/css/custom.css" rel="stylesheet" />
+
 </head>
 <body>
-    <header>
+   @* <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
+            <div class="container" id="hide_on_loginpage">
                 <a class="navbar-brand" asp-area="" asp-page="~/LoginPage">RazorPageDemoProject</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-               @* <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
@@ -26,10 +27,24 @@
                             <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
                         </li>
                     </ul>
-                </div>*@
+                </div>
             </div>
         </nav>
-    </header>
+    </header>*@
+
+    @* @if (User.Identity.IsAuthenticated)
+        {
+            <div class="container">
+                <main role="main" class="pb-3">
+                    @RenderBody()
+                </main>
+            </div>
+        }
+        else
+        {
+            @RenderBody()
+            <a asp-area="Identity" asp-page="./LoginPage" />
+        }*@
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()

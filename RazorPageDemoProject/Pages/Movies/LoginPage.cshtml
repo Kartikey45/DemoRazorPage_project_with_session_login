@@ -1,13 +1,14 @@
-﻿@page 
+﻿@page
+
 @model RazorPageDemoProject.Pages.Movies.LoginPageModel
 @{
     ViewData["Title"] = "LoginPage";
 }
-
+<script src="~/jquery/Login.js"></script>
 <h4>Login Page</h4>
 <hr />
 @*<h3>session1 : @Model.Session1</h3>
-<h3>session2 : @Model.Session2</h3>*@
+    <h3>session2 : @Model.Session2</h3>*@
 <div class="row">
     <div class="col-md-4">
         <form method="post" asp-page="LoginPage">

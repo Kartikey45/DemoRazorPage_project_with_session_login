@@ -21,23 +21,13 @@ namespace RazorPageDemoProject.Pages.Movies
         [BindProperty]
         public LoginCred loginCred { get; set; }
         public string Message { get; set; }
-      /*  public string Session1 { get; set; }
-        public string Session2 { get; set; }*/
 
         public IActionResult OnGet()
         {
-          /*  Session1 = HttpContext.Session.GetString("username");*/
             HttpContext.Session.Remove("username");
-          /*  Session2 = HttpContext.Session.GetString("username");*/
             return Page();
         }
-      /*  public IActionResult OnGetLogout()
-        {
-            Session1 = HttpContext.Session.GetString("username");
-            HttpContext.Session.Remove("username");
-            Session2 = HttpContext.Session.GetString("username");
-            return Page();
-        }*/
+    
         public IActionResult OnPostAsync()
         {
             var result = _context.UserCredentials.Where(u => u.Username.Equals(loginCred.Username) && u.Password.Equals(loginCred.Password)).FirstOrDefault();
@@ -45,7 +35,7 @@ namespace RazorPageDemoProject.Pages.Movies
             if (result != null)
             {
                 HttpContext.Session.SetString("username", loginCred.Username);
-                return RedirectToPage("./Index");
+                return RedirectToPage("./Dashboard");
             }
             else if(string.IsNullOrEmpty(loginCred.Username) || string.IsNullOrEmpty(loginCred.Password))
             {
